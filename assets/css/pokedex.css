@@ -146,6 +146,12 @@
     border-radius: 1rem;
 }
 
+.pokemonbutton {
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
 @media screen and (min-width: 380px) {
     .pokemons {
         grid-template-columns: 1fr 1fr;
